@@ -3,7 +3,7 @@
   "short_name": "FoodLogger7",
   "description": "FoodLogger7",
   "lang": "it-IT",
-  "start_url": "/",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#EE350F",
   "theme_color": "#EE350F",
